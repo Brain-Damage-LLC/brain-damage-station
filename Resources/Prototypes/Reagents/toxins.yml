@@ -890,3 +890,23 @@
         delay: 2.5
         walkSpeedModifier: 0.5
         sprintSpeedModifier: 0.5
+
+## BRAIN DAMAGE STATION ##
+
+- type: reagent
+  id: StillWater
+  name: reagent-name-still-water
+  desc: reagent-desc-still-water
+  color: "#363636"
+  physicalDesc: reagent-physical-desc-nondescript
+  metabolisms:
+    Bloodstream:
+      effects:
+      - !type:HealthChange
+        damage:
+          types:
+            Poison: 2
+      - !type:ModifyStatusEffect
+        effectProto: StatusEffectSeeingRainbow
+        type: Add
+        time: 5
