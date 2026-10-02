@@ -96,3 +96,6 @@ reagent-desc-phosphoric-acid = An acidic chemical often used in agriculture. Kee
 
 reagent-name-hardlight-toxin = hardlight toxin
 reagent-desc-hardlight-toxin = A highly advanced toxin which inundates a victim's nervous system with ionizing radiation when metabolized.
+
+reagent-name-still-water = still water
+reagent-desc-still-water = Those who know :skull:
