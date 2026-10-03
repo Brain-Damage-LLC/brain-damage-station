@@ -65,3 +65,6 @@ trait-hemophilia-desc = Your body fails to make blood clots.
 
 trait-impaired-mobility-name = Impaired Mobility
 trait-impaired-mobility-desc = You have difficulty moving without a mobility aid.
+
+trait-six-seven-name = Six Seven
+trait-six-seven-desc = SIX SEVEN!!!
